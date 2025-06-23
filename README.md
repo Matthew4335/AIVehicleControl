@@ -2,7 +2,7 @@
 
 ## 🚀 Overview
 
-This project demonstrates advanced AI techniques for autonomous vehicle control in Unity, featuring both **Neural Network-based reinforcement learning** and **Fuzzy Logic systems**. Watch as AI vehicles master complex racing tracks through intelligent decision-making and adaptive behavior!
+This project demonstrates advanced AI techniques for autonomous vehicle control in Unity, featuring both **Neural Network-based reinforcement learning** and **Fuzzy Logic systems**.
 
 ## 🧠 Technologies & AI Approaches
 
